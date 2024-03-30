@@ -1,0 +1,8 @@
+// pull in the shared settings for all configs for this target
+#include "UnrealGame.xcconfig"
+
+// Unreal per-config variables
+UE_TARGET_CONFIG = Shipping
+UE_UBT_BINARY_SUBPATH = UnrealGame-IOS-Shipping
+UE_IOS_EXECUTABLE_NAME = UnrealGame-IOS-Shipping
+PRODUCT_NAME = UnrealGame-IOS-Shipping

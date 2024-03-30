@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Users/eungyukim/Documents/GitHub/UnrealProgrammingPart2/ArenaBattle/Source/ArenaBattle/ArenaBattle.Build.cs",
+		"/Users/eungyukim/Documents/GitHub/UnrealProgrammingPart2/ArenaBattle/Source/ArenaBattle.Target.cs",
+		"/Users/eungyukim/Documents/GitHub/UnrealProgrammingPart2/ArenaBattle/Source/ArenaBattleEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
