@@ -3770,6 +3770,4 @@
   Runtime/CoreOnline/Public/Online/CoreOnline.h \
   Runtime/Engine/Classes/GameFramework/PlayerController.h \
   ../Intermediate/Build/Mac/UnrealEditor/Inc/Engine/UHT/GameModeBase.generated.h \
-  /Users/eungyukim/Documents/GitHub/UnrealProgrammingPart2/ArenaBattle/Intermediate/Build/Mac/UnrealEditor/Inc/ArenaBattle/UHT/ABGameMode.generated.h \
-  /Users/eungyukim/Documents/GitHub/UnrealProgrammingPart2/ArenaBattle/Source/ArenaBattle/Player/ABPlayerController.h \
-  /Users/eungyukim/Documents/GitHub/UnrealProgrammingPart2/ArenaBattle/Intermediate/Build/Mac/UnrealEditor/Inc/ArenaBattle/UHT/ABPlayerController.generated.h
+  /Users/eungyukim/Documents/GitHub/UnrealProgrammingPart2/ArenaBattle/Intermediate/Build/Mac/UnrealEditor/Inc/ArenaBattle/UHT/ABGameMode.generated.h

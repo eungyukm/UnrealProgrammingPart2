@@ -258,6 +258,7 @@
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/WidgetRegistration/UHT"
 -I"Developer/WidgetRegistration/Public"
 -I"/Users/eungyukim/Documents/GitHub/UnrealProgrammingPart2/ArenaBattle/Intermediate/Build/Mac/UnrealEditor/Inc/ArenaBattle/UHT"
+-I"/Users/eungyukim/Documents/GitHub/UnrealProgrammingPart2/ArenaBattle/Source/ArenaBattle"
 -I"/Users/eungyukim/Documents/GitHub/UnrealProgrammingPart2/ArenaBattle/Source"
 -isystem"ThirdParty/mimalloc/include"
 -isystem"ThirdParty/LibTiff/Source/Mac"

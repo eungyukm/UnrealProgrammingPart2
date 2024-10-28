@@ -1,6 +1,7 @@
 -c
 -pipe
 -I"."
+-I"/Users/eungyukim/Documents/GitHub/UnrealProgrammingPart2/ArenaBattle/Source/ArenaBattle/Private"
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/Engine/UHT"
 -I"../Shaders/Shared"
 -I"Runtime/Engine/Classes"
@@ -260,6 +261,7 @@
 -I"/Users/eungyukim/Documents/GitHub/UnrealProgrammingPart2/ArenaBattle/Intermediate/Build/Mac/UnrealEditor/Inc/ArenaBattle/UHT"
 -I"/Users/eungyukim/Documents/GitHub/UnrealProgrammingPart2/ArenaBattle/Source/ArenaBattle"
 -I"/Users/eungyukim/Documents/GitHub/UnrealProgrammingPart2/ArenaBattle/Source"
+-I"/Users/eungyukim/Documents/GitHub/UnrealProgrammingPart2/ArenaBattle/Source/ArenaBattle/Public"
 -isystem"ThirdParty/mimalloc/include"
 -isystem"ThirdParty/LibTiff/Source/Mac"
 -isystem"ThirdParty/LibTiff/Source"
